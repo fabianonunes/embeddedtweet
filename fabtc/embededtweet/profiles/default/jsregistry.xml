@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<object autogroup="False" meta_type="JavaScripts Registry" name="portal_javascripts">
+	<javascript cacheable="True" compression="safe" cookable="True" enabled="True" expression="" id="http://platform.twitter.com/widgets.js" inline="False"/>
+</object>

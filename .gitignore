@@ -1,0 +1,11 @@
+.mr.developer.cfg
+bin
+eggs
+*.egg
+*.egg-info
+develop-eggs
+parts
+var
+coverage
+*.pyc
+*.pyo
